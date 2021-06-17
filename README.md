@@ -2,9 +2,9 @@
 
 :denmark: My name is Kasper, I:
 
-:point_right: love the dad-life :children_crossing:, as a PhD student :man_scientist:
+:point_right: love the dad-life :children_crossing: as a PhD student :man_scientist:, and data science!
  
-:point_right: do [bioinformatics :dna:](https://en.wikipedia.org/wiki/Bioinformatics), professionally, always on [Linux :penguin:](https://pop.system76.com/)
+:point_right: do [bioinformatics :dna:](https://en.wikipedia.org/wiki/Bioinformatics), professionally, and always on [Linux :penguin:](https://pop.system76.com/)
  
 :point_right: build [R packages :package:](https://r-pkgs.org/), because I care about open and free software (and science)
  
