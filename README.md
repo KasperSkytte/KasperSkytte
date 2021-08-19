@@ -15,7 +15,7 @@
 
 :point_right: build a [Shiny app](https://shiny.rstudio.com/) or two, tiny or huge
    - for monitoring the fermentation of your homebrewed beer :beer:
-     - https://kasperskytte.shinyapps.io/KaspbeeryPi/
+     - https://github.com/KasperSkytte/KaspbeeryPi/
    - or analyzing :microscope: complex microbial communities :microbe:, simply:
      - https://dnasense.com/index.php/analysis-app
      - https://madsalbertsen.github.io/ampvis2/#shiny
