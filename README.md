@@ -1,5 +1,5 @@
 ### Hi there 👋
- - :denmark: My name is Kasper, I:
+:denmark: My name is Kasper, I:
  - :point_right: love the dad-life :children_crossing: as a PhD student :man_scientist:, and data science!
  - :point_right: do [bioinformatics :dna:](https://en.wikipedia.org/wiki/Bioinformatics), always on [Linux :penguin:](https://pop.system76.com/)
  - :point_right: build [R packages :package:](https://r-pkgs.org/)
