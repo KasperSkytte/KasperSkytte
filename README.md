@@ -10,7 +10,6 @@
    - or analyzing :microscope: complex microbial communities :microbe:, simply:
      - https://dnasense.com/app
      - https://madsalbertsen.github.io/ampvis2/#shiny
-   - or as an interactive interface to execute BASH scripts, in a container, of course
- - :point_right: am a big fan of self-hosting and love tinkering with software, virtual machines, containers, and managing it using [Ansible](https://www.ansible.com/).
+ - :point_right: am a big fan of self-hosting and love tinkering with software, virtual machines, containers, orchestrated using [Ansible](https://www.ansible.com/).
 
 ![KasperSkytte's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasperskytte&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
