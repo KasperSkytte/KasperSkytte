@@ -1,6 +1,6 @@
 ### Hi there 👋
 :denmark: My name is Kasper, I enjoy:
- - :point_right: the dad-life :children_crossing: as a PhD student :man_scientist:, and data science!
+ - :point_right: the dad-life :children_crossing: as a PostDoc :man_scientist:, and data science!
  - :point_right: [bioinformatics :dna:](https://en.wikipedia.org/wiki/Bioinformatics) and DNA sequencing
  - :point_right: Machine learning and statistics
  - :point_right: [Linux :penguin:](https://pop.system76.com/) system administration and [Ansible](https://www.ansible.com/)
