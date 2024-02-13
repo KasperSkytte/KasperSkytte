@@ -15,6 +15,6 @@
      - https://madsalbertsen.github.io/ampvis2/#shiny
      - https://polardnaexplorer.awi.de/
  - :point_right: Self-hosting! I love tinkering with open source software, virtual machines, containers.
- - Investing and finance! 💰
+ - :point_right: Investing and finance! 💰
 
 ![KasperSkytte's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasperskytte&count_private=true&theme=dark&show_icons=true&include_all_commits=true)
